@@ -1,0 +1,728 @@
+Array
+(
+    [neighborhood_name] => Auburn Station
+    [neighborhood] => 4
+    [lot] => 263
+    [builder] => 1
+    [forsyth_county] => No
+    [payroll] => 36
+    [basement_or_slab] => No
+    [future_bath_basement] => Yes
+    [ejector_tank] => Ejector Tank
+    [brand_of_fixtures] => Pfizter
+    [supervisor] => 25
+    [rough_type] => Pool House
+    [quantity_3] => 1
+    [quantity_4] => 1
+    [quantity_5] => 2
+    [sub_pregunta_1_5] => Array
+        (
+            [0] => Shower base with wall set
+        )
+
+    [sub_pregunta_3_5] => No
+    [valves_5] => 2
+    [sub_pregunta_4_5] => No
+    [quantity_6] => 2
+    [sub_pregunta_1_6] => Array
+        (
+            [0] => SteelTub
+        )
+
+    [sub_pregunta_3_6] => Yes
+    [valves_6] => 2
+    [quantity_7] => 2
+    [sub_pregunta_1_7] => Array
+        (
+            [0] => Fiberglass
+            [1] => 
+        )
+
+    [sub_pregunta_3_7] => No
+    [valves_7] => 2
+    [quantity_8] => 2
+    [sub_pregunta_1_8] => Array
+        (
+            [0] => Tile drain
+            [1] => 
+        )
+
+    [sub_pregunta_3_8] => No
+    [valves_8] => 4
+    [sub_pregunta_4_8] => Yes
+    [quantity_9] => 3
+    [quantity_10] => 3
+    [quantity_11] => 3
+    [quantity_12] => 3
+    [quantity_13] => 
+    [quantity_18] => 
+    [sub_pregunta_1_18] => Array
+        (
+            [0] => 
+        )
+
+    [quantity_30] => 
+    [quantity_31] => 
+    [future_bath_bonus] => No
+    [water_closets_future_bath] => 
+    [lavatories_future_bath] => 
+    [tub_showers_future_bath] => 
+    [fut_pregunta_2_7] => No
+    [guest_shower_future_bath] => 
+    [fut_pregunta_2_8] => No
+    [extravalve] => 
+    [quantity_32] => 4
+    [quantity_33] => No
+    [quantity_14] => 4
+    [quantity_19] => 
+    [quantity_20] => 
+    [quantity_21] => 
+    [quantity_22] => 
+    [quantity_23] => 
+    [quantity_24] => 
+    [quantity_27] => No
+    [quantity_15] => No
+    [quantity_16] => No
+    [sub_pregunta_1_16] => 
+    [quantity_17] => No
+    [sub_pregunta_1_17] => 
+    [nombre_plantilla] => 
+    [crear] => true
+)
+Array
+(
+    [neighborhood_name] => Auburn Station
+    [neighborhood] => 4
+    [lot] => 250
+    [builder] => 1
+    [forsyth_county] => No
+    [payroll] => 36
+    [basement_or_slab] => No
+    [future_bath_basement] => Yes
+    [ejector_tank] => Ejector Tank
+    [brand_of_fixtures] => Pfizter
+    [supervisor] => 27
+    [rough_type] => Regular
+    [quantity_3] => 1
+    [quantity_4] => 1
+    [quantity_5] => 2
+    [sub_pregunta_1_5] => Array
+        (
+            [0] => Shower Base
+        )
+
+    [sub_pregunta_3_5] => Yes
+    [valves_5] => 2
+    [sub_pregunta_4_5] => No
+    [quantity_6] => 2
+    [sub_pregunta_1_6] => Array
+        (
+            [0] => Freestanding
+        )
+
+    [sub_pregunta_3_6] => No
+    [valves_6] => 2
+    [quantity_7] => 2
+    [sub_pregunta_1_7] => Array
+        (
+            [0] => SteelTub
+            [1] => 
+        )
+
+    [sub_pregunta_3_7] => Yes
+    [valves_7] => 2
+    [quantity_8] => 2
+    [sub_pregunta_1_8] => Array
+        (
+            [0] => Shower base with wall set
+            [1] => 
+        )
+
+    [sub_pregunta_3_8] => No
+    [valves_8] => 4
+    [sub_pregunta_4_8] => Yes
+    [quantity_9] => 3
+    [quantity_10] => 3
+    [quantity_11] => 3
+    [quantity_12] => 3
+    [quantity_13] => 
+    [quantity_18] => 
+    [sub_pregunta_1_18] => Array
+        (
+            [0] => 
+        )
+
+    [quantity_30] => 
+    [quantity_31] => 
+    [future_bath_bonus] => No
+    [water_closets_future_bath] => 
+    [lavatories_future_bath] => 
+    [tub_showers_future_bath] => 
+    [fut_pregunta_2_7] => No
+    [guest_shower_future_bath] => 
+    [fut_pregunta_2_8] => No
+    [extravalve] => 
+    [quantity_32] => 4
+    [quantity_33] => No
+    [quantity_14] => 4
+    [quantity_19] => 4
+    [quantity_20] => 4
+    [quantity_21] => 
+    [quantity_22] => 
+    [quantity_23] => 
+    [quantity_24] => 
+    [quantity_27] => No
+    [quantity_15] => No
+    [quantity_16] => No
+    [sub_pregunta_1_16] => 
+    [quantity_17] => No
+    [sub_pregunta_1_17] => 
+    [nombre_plantilla] => 
+    [crear] => true
+)
+Array
+(
+    [neighborhood_name] => Auburn Station
+    [neighborhood] => 4
+    [lot] => 154
+    [builder] => 1
+    [forsyth_county] => No
+    [payroll] => 36
+    [basement_or_slab] => No
+    [future_bath_basement] => Yes
+    [ejector_tank] => Ejector Tank
+    [brand_of_fixtures] => 
+    [supervisor] => 27
+    [rough_type] => Regular
+    [quantity_3] => 1
+    [quantity_4] => 1
+    [quantity_5] => 2
+    [sub_pregunta_1_5] => Array
+        (
+            [0] => Shower base with wall set
+        )
+
+    [sub_pregunta_3_5] => Yes
+    [valves_5] => 2
+    [sub_pregunta_4_5] => No
+    [quantity_6] => 2
+    [sub_pregunta_1_6] => Array
+        (
+            [0] => Jetted Tub
+        )
+
+    [sub_pregunta_3_6] => Yes
+    [valves_6] => 2
+    [quantity_7] => 2
+    [sub_pregunta_1_7] => Array
+        (
+            [0] => Sterling
+            [1] => 
+        )
+
+    [sub_pregunta_3_7] => No
+    [valves_7] => 2
+    [quantity_8] => 2
+    [sub_pregunta_1_8] => Array
+        (
+            [0] => Tile drain
+            [1] => 
+        )
+
+    [sub_pregunta_3_8] => No
+    [valves_8] => 4
+    [sub_pregunta_4_8] => Yes
+    [quantity_9] => 3
+    [quantity_10] => 3
+    [quantity_11] => 3
+    [quantity_12] => 3
+    [quantity_13] => 3
+    [quantity_18] => 3
+    [sub_pregunta_1_18] => Array
+        (
+            [0] => 
+        )
+
+    [quantity_30] => 3
+    [quantity_31] => 3
+    [future_bath_bonus] => No
+    [water_closets_future_bath] => 
+    [lavatories_future_bath] => 
+    [tub_showers_future_bath] => 
+    [fut_pregunta_2_7] => No
+    [guest_shower_future_bath] => 
+    [fut_pregunta_2_8] => No
+    [extravalve] => 4
+    [quantity_32] => 4
+    [quantity_33] => Yes
+    [quantity_14] => 4
+    [quantity_19] => 4
+    [quantity_20] => 4
+    [quantity_21] => 4
+    [quantity_22] => 4
+    [quantity_23] => 4
+    [quantity_24] => 4
+    [quantity_27] => Yes
+    [quantity_15] => Yes
+    [quantity_16] => Yes
+    [sub_pregunta_1_16] => Pan
+    [quantity_17] => Yes
+    [sub_pregunta_1_17] => ertwert
+    [nombre_plantilla] => 
+    [crear] => true
+)
+Array
+(
+    [neighborhood_name] => Logan Point
+    [neighborhood] => 77
+    [lot] => 256
+    [builder] => 1
+    [forsyth_county] => No
+    [payroll] => 13
+    [basement_or_slab] => No
+    [future_bath_basement] => Yes
+    [ejector_tank] => Ejector Tank
+    [brand_of_fixtures] => Delta
+    [supervisor] => 27
+    [rough_type] => Regular
+    [quantity_3] => 1
+    [quantity_4] => 1
+    [quantity_5] => 2
+    [sub_pregunta_1_5] => Array
+        (
+            [0] => Shower Base
+        )
+
+    [sub_pregunta_3_5] => No
+    [valves_5] => 2
+    [sub_pregunta_4_5] => No
+    [quantity_6] => 2
+    [sub_pregunta_1_6] => Array
+        (
+            [0] => SteelTub
+        )
+
+    [sub_pregunta_3_6] => No
+    [valves_6] => 2
+    [quantity_7] => 2
+    [sub_pregunta_1_7] => Array
+        (
+            [0] => Garden Tub
+            [1] => 
+        )
+
+    [sub_pregunta_3_7] => No
+    [valves_7] => 2
+    [quantity_8] => 2
+    [sub_pregunta_1_8] => Array
+        (
+            [0] => Tile drain
+            [1] => 
+        )
+
+    [sub_pregunta_3_8] => No
+    [valves_8] => 2
+    [sub_pregunta_4_8] => No
+    [quantity_9] => 3
+    [quantity_10] => 3
+    [quantity_11] => 3
+    [quantity_12] => 3
+    [quantity_13] => 
+    [quantity_18] => 
+    [sub_pregunta_1_18] => Array
+        (
+            [0] => 
+        )
+
+    [quantity_30] => 
+    [quantity_31] => 
+    [future_bath_bonus] => No
+    [water_closets_future_bath] => 
+    [lavatories_future_bath] => 
+    [tub_showers_future_bath] => 
+    [fut_pregunta_2_7] => No
+    [guest_shower_future_bath] => 
+    [fut_pregunta_2_8] => No
+    [extravalve] => 
+    [quantity_32] => 4
+    [quantity_33] => No
+    [quantity_14] => 4
+    [quantity_19] => 4
+    [quantity_20] => 
+    [quantity_21] => 
+    [quantity_22] => 
+    [quantity_23] => 
+    [quantity_24] => 
+    [quantity_27] => No
+    [quantity_15] => No
+    [quantity_16] => No
+    [sub_pregunta_1_16] => 
+    [quantity_17] => No
+    [sub_pregunta_1_17] => 
+    [nombre_plantilla] => 
+    [crear] => true
+)
+Array
+(
+    [neighborhood_name] => Others
+    [neighborhood] => 7
+    [lot] => 2664 Drew Valley Rd, Brookhaven
+    [builder] => 1
+    [forsyth_county] => No
+    [payroll] => 
+    [basement_or_slab] => No
+    [future_bath_basement] => Yes
+    [ejector_tank] => Ejector Tank
+    [brand_of_fixtures] => Moen
+    [supervisor] => 27
+    [rough_type] => Regular
+    [quantity_3] => 1
+    [quantity_4] => 1
+    [quantity_5] => 2
+    [sub_pregunta_1_5] => Array
+        (
+            [0] => 
+        )
+
+    [sub_pregunta_3_5] => No
+    [valves_5] => 2
+    [sub_pregunta_4_5] => No
+    [quantity_6] => 2
+    [sub_pregunta_1_6] => Array
+        (
+            [0] => 
+        )
+
+    [sub_pregunta_3_6] => No
+    [valves_6] => 2
+    [quantity_7] => 2
+    [sub_pregunta_1_7] => Array
+        (
+            [0] => 
+            [1] => 
+        )
+
+    [sub_pregunta_3_7] => No
+    [valves_7] => 2
+    [quantity_8] => 2
+    [sub_pregunta_1_8] => Array
+        (
+            [0] => 
+            [1] => 
+        )
+
+    [sub_pregunta_3_8] => No
+    [valves_8] => 2
+    [sub_pregunta_4_8] => No
+    [quantity_9] => 3
+    [quantity_10] => 3
+    [quantity_11] => 3
+    [quantity_12] => 
+    [quantity_13] => 
+    [quantity_18] => 
+    [sub_pregunta_1_18] => Array
+        (
+            [0] => 
+        )
+
+    [quantity_30] => 
+    [quantity_31] => 
+    [future_bath_bonus] => No
+    [water_closets_future_bath] => 
+    [lavatories_future_bath] => 
+    [tub_showers_future_bath] => 
+    [fut_pregunta_2_7] => No
+    [guest_shower_future_bath] => 
+    [fut_pregunta_2_8] => No
+    [extravalve] => 
+    [quantity_32] => 4
+    [quantity_33] => No
+    [quantity_14] => 4
+    [quantity_19] => 4
+    [quantity_20] => 
+    [quantity_21] => 
+    [quantity_22] => 
+    [quantity_23] => 
+    [quantity_24] => 
+    [quantity_27] => No
+    [quantity_15] => No
+    [quantity_16] => No
+    [sub_pregunta_1_16] => 
+    [quantity_17] => No
+    [sub_pregunta_1_17] => 
+    [nombre_plantilla] => 
+    [crear] => true
+)
+Array
+(
+    [neighborhood_name] => Others
+    [neighborhood] => 7
+    [lot] => 2664 Drew Valley Rd, Brookhaven
+    [builder] => 1
+    [forsyth_county] => No
+    [payroll] => 
+    [basement_or_slab] => No
+    [future_bath_basement] => Yes
+    [ejector_tank] => Ejector Tank
+    [brand_of_fixtures] => Moen
+    [supervisor] => 27
+    [rough_type] => Regular
+    [quantity_3] => 1
+    [quantity_4] => 1
+    [quantity_5] => 2
+    [sub_pregunta_1_5] => Array
+        (
+            [0] => 
+        )
+
+    [sub_pregunta_3_5] => No
+    [valves_5] => 2
+    [sub_pregunta_4_5] => No
+    [quantity_6] => 2
+    [sub_pregunta_1_6] => Array
+        (
+            [0] => 
+        )
+
+    [sub_pregunta_3_6] => No
+    [valves_6] => 2
+    [quantity_7] => 2
+    [sub_pregunta_1_7] => Array
+        (
+            [0] => 
+            [1] => 
+        )
+
+    [sub_pregunta_3_7] => No
+    [valves_7] => 2
+    [quantity_8] => 2
+    [sub_pregunta_1_8] => Array
+        (
+            [0] => 
+            [1] => 
+        )
+
+    [sub_pregunta_3_8] => No
+    [valves_8] => 2
+    [sub_pregunta_4_8] => No
+    [quantity_9] => 3
+    [quantity_10] => 3
+    [quantity_11] => 3
+    [quantity_12] => 
+    [quantity_13] => 
+    [quantity_18] => 
+    [sub_pregunta_1_18] => Array
+        (
+            [0] => 
+        )
+
+    [quantity_30] => 
+    [quantity_31] => 
+    [future_bath_bonus] => No
+    [water_closets_future_bath] => 
+    [lavatories_future_bath] => 
+    [tub_showers_future_bath] => 
+    [fut_pregunta_2_7] => No
+    [guest_shower_future_bath] => 
+    [fut_pregunta_2_8] => No
+    [extravalve] => 
+    [quantity_32] => 4
+    [quantity_33] => No
+    [quantity_14] => 4
+    [quantity_19] => 4
+    [quantity_20] => 
+    [quantity_21] => 
+    [quantity_22] => 
+    [quantity_23] => 
+    [quantity_24] => 
+    [quantity_27] => No
+    [quantity_15] => No
+    [quantity_16] => No
+    [sub_pregunta_1_16] => 
+    [quantity_17] => No
+    [sub_pregunta_1_17] => 
+    [nombre_plantilla] => 
+    [crear] => true
+)
+Array
+(
+    [neighborhood_name] => Others
+    [neighborhood] => 7
+    [lot] => 2664 Drew Valley Rd, Brookhaven
+    [builder] => 1
+    [forsyth_county] => No
+    [payroll] => 
+    [basement_or_slab] => No
+    [future_bath_basement] => Yes
+    [ejector_tank] => Ejector Tank
+    [brand_of_fixtures] => Moen
+    [supervisor] => 27
+    [rough_type] => Regular
+    [quantity_3] => 1
+    [quantity_4] => 1
+    [quantity_5] => 2
+    [sub_pregunta_1_5] => Array
+        (
+            [0] => 
+        )
+
+    [sub_pregunta_3_5] => No
+    [valves_5] => 2
+    [sub_pregunta_4_5] => No
+    [quantity_6] => 2
+    [sub_pregunta_1_6] => Array
+        (
+            [0] => 
+        )
+
+    [sub_pregunta_3_6] => No
+    [valves_6] => 2
+    [quantity_7] => 2
+    [sub_pregunta_1_7] => Array
+        (
+            [0] => 
+            [1] => 
+        )
+
+    [sub_pregunta_3_7] => No
+    [valves_7] => 2
+    [quantity_8] => 2
+    [sub_pregunta_1_8] => Array
+        (
+            [0] => 
+            [1] => 
+        )
+
+    [sub_pregunta_3_8] => No
+    [valves_8] => 2
+    [sub_pregunta_4_8] => No
+    [quantity_9] => 3
+    [quantity_10] => 3
+    [quantity_11] => 3
+    [quantity_12] => 
+    [quantity_13] => 
+    [quantity_18] => 
+    [sub_pregunta_1_18] => Array
+        (
+            [0] => 
+        )
+
+    [quantity_30] => 
+    [quantity_31] => 
+    [future_bath_bonus] => No
+    [water_closets_future_bath] => 
+    [lavatories_future_bath] => 
+    [tub_showers_future_bath] => 
+    [fut_pregunta_2_7] => No
+    [guest_shower_future_bath] => 
+    [fut_pregunta_2_8] => No
+    [extravalve] => 
+    [quantity_32] => 4
+    [quantity_33] => No
+    [quantity_14] => 4
+    [quantity_19] => 
+    [quantity_20] => 
+    [quantity_21] => 
+    [quantity_22] => 
+    [quantity_23] => 
+    [quantity_24] => 
+    [quantity_27] => No
+    [quantity_15] => No
+    [quantity_16] => No
+    [sub_pregunta_1_16] => 
+    [quantity_17] => No
+    [sub_pregunta_1_17] => 
+    [nombre_plantilla] => 
+    [crear] => true
+)
+Array
+(
+    [neighborhood_name] => Others
+    [neighborhood] => 7
+    [lot] => 2664 Drew Valley Rd, Brookhaven
+    [builder] => 1
+    [forsyth_county] => No
+    [payroll] => 13
+    [basement_or_slab] => No
+    [future_bath_basement] => Yes
+    [ejector_tank] => Ejector Tank
+    [brand_of_fixtures] => Moen
+    [supervisor] => 27
+    [rough_type] => Regular
+    [quantity_3] => 1
+    [quantity_4] => 1
+    [quantity_5] => 2
+    [sub_pregunta_1_5] => Array
+        (
+            [0] => 
+        )
+
+    [sub_pregunta_3_5] => No
+    [valves_5] => 2
+    [sub_pregunta_4_5] => No
+    [quantity_6] => 2
+    [sub_pregunta_1_6] => Array
+        (
+            [0] => 
+        )
+
+    [sub_pregunta_3_6] => No
+    [valves_6] => 2
+    [quantity_7] => 2
+    [sub_pregunta_1_7] => Array
+        (
+            [0] => 
+            [1] => 
+        )
+
+    [sub_pregunta_3_7] => No
+    [valves_7] => 2
+    [quantity_8] => 2
+    [sub_pregunta_1_8] => Array
+        (
+            [0] => 
+            [1] => 
+        )
+
+    [sub_pregunta_3_8] => No
+    [valves_8] => 2
+    [sub_pregunta_4_8] => No
+    [quantity_9] => 3
+    [quantity_10] => 3
+    [quantity_11] => 3
+    [quantity_12] => 
+    [quantity_13] => 
+    [quantity_18] => 
+    [sub_pregunta_1_18] => Array
+        (
+            [0] => 
+        )
+
+    [quantity_30] => 
+    [quantity_31] => 
+    [future_bath_bonus] => No
+    [water_closets_future_bath] => 
+    [lavatories_future_bath] => 
+    [tub_showers_future_bath] => 
+    [fut_pregunta_2_7] => No
+    [guest_shower_future_bath] => 
+    [fut_pregunta_2_8] => No
+    [extravalve] => 
+    [quantity_32] => 4
+    [quantity_33] => No
+    [quantity_14] => 4
+    [quantity_19] => 
+    [quantity_20] => 
+    [quantity_21] => 
+    [quantity_22] => 
+    [quantity_23] => 
+    [quantity_24] => 
+    [quantity_27] => No
+    [quantity_15] => No
+    [quantity_16] => No
+    [sub_pregunta_1_16] => 
+    [quantity_17] => No
+    [sub_pregunta_1_17] => 
+    [nombre_plantilla] => 
+    [crear] => true
+)

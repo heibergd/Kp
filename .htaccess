@@ -1,0 +1,12 @@
+# Impedir que se pueda ver el listado de contenidos de un directorio
+
+
+#Options All -Indexes
+#ErrorDocument 404 /404.html
+# Url Amigables
+
+RewriteEngine on
+
+RewriteRule ^([\w][\+]*)+$ index.php?action=$0 [L]
+
+
